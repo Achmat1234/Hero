@@ -47,11 +47,33 @@
   
   /* Fake image */
   .fakeimg {
-    background-color: #aaa;
+    background-image: url(../images/hosp.jpg);
+    background-color: #cccccc;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 100%;
     padding: 20px;
-  }
-  
+}
+.fakeimg1 {
+  background-image: url(../images/se-realiza-en-eeuu-el-primer-trasplante-de-higado-de-donante-y-receptor-con-vih.jpg);
+  background-color: #cccccc;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+}
+.fakeimg2 {
+  background-image: url(../images/heart-of-cape-town-museum-2-750x375.jpg);
+  background-color: #cccccc;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+}  
+
   /* Add a card effect for articles */
   .card {
     background-color: #474e5d;
