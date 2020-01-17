@@ -79,7 +79,24 @@ a:hover {
   width: 100%;
   padding: 20px;
 }  
-
+.img3 {
+  background-image: url(../images/Heart\ of\ Cape\ Town\ Museum.jpg);
+  background-color: #cccccc;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+}  
+.img4 {
+  background-image: url(../images/unnamed.jpg);
+  background-color: #cccccc;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+} 
   /* Add a card effect for articles */
   .card {
     background-color: #474e5d;
