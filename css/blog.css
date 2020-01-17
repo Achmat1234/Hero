@@ -6,7 +6,7 @@
   body {
     font-family: Arial;
     padding: 20px;
-    background: #f1f1f1;
+    background: ghostwhite;
   }
   
   /* Header/Blog Title */
@@ -14,8 +14,22 @@
     padding: 30px;
     font-size: 40px;
     text-align: center;
-    background: white;
+    background-image: url(../images/hosp.jpg);
+    background-color: #cccccc;
+    height: 500px;
+    width: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
+
+  .h2, h2 {
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    color: aliceblue;
+    font-size: 56px;
+}
   
   /* Create two unequal columns that floats next to each other */
   /* Left column */
@@ -40,11 +54,11 @@
   
   /* Add a card effect for articles */
   .card {
-     background-color: white;
-     padding: 20px;
-     margin-top: 20px;
-  }
-  
+    background-color: #474e5d;
+    padding: 20px;
+    margin-top: 20px;
+}
+
   /* Clear floats after the columns */
   .row:after {
     content: "";
