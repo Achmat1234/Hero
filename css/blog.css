@@ -1,7 +1,19 @@
 * {
     box-sizing: border-box;
   }
-  
+a {
+  color: hotpink;
+}
+a:link {
+  color: rgba(246, 195, 128, 0.554);
+}
+a:visited {
+  color: rgba(230, 164, 43, 0.445);
+}
+a:hover {
+  color: rgb(252, 222, 140);
+}
+
   /* Add a gray background color with some padding */
   body {
     font-family: Arial;
