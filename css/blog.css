@@ -79,6 +79,7 @@ h3:hover {
     background-image: url(../images/hosp.jpg);
     background-color: #cccccc;
     background-position: bottom;
+    height: 148px;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -114,7 +115,8 @@ h3:hover {
 .img4 {
   background-image: url(../images/last.jpg);
   background-color: #cccccc;
-  background-position: bottom;
+  background-position: center;
+  height: 153px;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -124,6 +126,7 @@ h3:hover {
   background-image: url(../images/unnamed.jpg);
   background-color: #cccccc;
   background-position: bottom;
+  height: 148px;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
